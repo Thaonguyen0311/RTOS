@@ -243,20 +243,6 @@ The experiment also showed the difference between Suspended, Ready, Running, and
 
 ---
 
-## 10. Repository Structure
-
-```text
-TaskControlAssignment/
-│
-├── README.md
-├── TaskControlAssignment.ino
-│
-└── images/
-    ├── running.png
-    ├── suspended.png
-    └── resumed.png
-```
-
 ## 11. Conclusion
 
 The application demonstrates:
