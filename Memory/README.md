@@ -6,17 +6,20 @@
 
 | Measurement   |               Free Heap |
 | ------------- | ----------------------: |
-| Before Task A | **[enter value] bytes** |
-| After Task A  | **[enter value] bytes** |
-| After Task B  | **[enter value] bytes** |
+| Before Task A | **362,736 bytes** |
+| After Task A  | **358,136 bytes** |
+| After Task B  | **353,536 bytes** |
+<img width="816" height="332" alt="image" src="https://github.com/user-attachments/assets/27d7cd8e-f9aa-4ecb-a1b8-e73def293832" />
 
 ### Task stack size: 8192 bytes
 
 | Measurement   |               Free Heap |
 | ------------- | ----------------------: |
-| Before Task A | **[enter value] bytes** |
-| After Task A  | **[enter value] bytes** |
-| After Task B  | **[enter value] bytes** |
+| Before Task A | **362,736 bytes** |
+| After Task A  | **353,912 bytes** |
+| After Task B  | **345,088 bytes** |
+<img width="836" height="206" alt="image" src="https://github.com/user-attachments/assets/f0d3c60e-1120-4dd7-884c-d3cd598a66ca" />
+<img width="840" height="340" alt="image" src="https://github.com/user-attachments/assets/c29295dc-3ee8-4a74-b92c-34a2078de3ef" />
 
 ## 2. Questions
 
